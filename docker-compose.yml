@@ -1,0 +1,33 @@
+version: '3.8'
+services:
+    mysql:
+        container_name: space_mysql
+        build: ./.docker/mysql
+        ports:
+        - "3300:3306"
+        volumes:
+            - ./.docker/mysql/data:/var/lib/mysql
+            - ./.docker/mysql/initdb.d:/docker-entrypoint-initdb.d
+            - ./.docker/mysql/my.cnf:/etc/my.cnf
+        environment:
+            MYSQL_DATABASE: space
+            MYSQL_ROOT_PASSWORD: root
+        restart: always
+        networks:
+            - backend
+    redis:
+        container_name: "space_redis"
+        build: ./.docker/redis
+        ports:
+            - "6370:6379"
+        volumes:
+            - ./.docker/redis/redis.conf/:/usr/local/etc/redis.conf
+            - ./.docker/redis/data:/usr/local/redis/data
+            - ./.docker/redis/redis.log:/usr/local/redis/redis.log
+        restart: always
+        networks:
+            - backend
+
+networks:
+    frontend:
+    backend:

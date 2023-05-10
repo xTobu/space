@@ -1,0 +1,126 @@
+1:C 10 May 2023 09:25:45.727 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1:C 10 May 2023 09:25:45.729 # Redis version=6.2.12, bits=64, commit=00000000, modified=0, pid=1, just started
+1:C 10 May 2023 09:25:45.731 # Configuration loaded
+1:M 10 May 2023 09:25:45.732 * monotonic clock: POSIX clock_gettime
+1:M 10 May 2023 09:25:45.735 * Running mode=standalone, port=6379.
+1:M 10 May 2023 09:25:45.736 # Server initialized
+1:M 10 May 2023 09:25:45.739 * Ready to accept connections
+1:signal-handler (1683710785) Received SIGTERM scheduling shutdown...
+1:M 10 May 2023 09:26:25.347 # User requested shutdown...
+1:M 10 May 2023 09:26:25.348 * Calling fsync() on the AOF file.
+1:M 10 May 2023 09:26:25.349 * Saving the final RDB snapshot before exiting.
+1:M 10 May 2023 09:26:25.353 * DB saved on disk
+1:M 10 May 2023 09:26:25.354 * Removing the pid file.
+1:M 10 May 2023 09:26:25.355 # Redis is now ready to exit, bye bye...
+1:C 10 May 2023 09:26:35.937 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1:C 10 May 2023 09:26:35.938 # Redis version=6.2.12, bits=64, commit=00000000, modified=0, pid=1, just started
+1:C 10 May 2023 09:26:35.939 # Configuration loaded
+1:M 10 May 2023 09:26:35.941 * monotonic clock: POSIX clock_gettime
+1:M 10 May 2023 09:26:35.945 * Running mode=standalone, port=6379.
+1:M 10 May 2023 09:26:35.946 # Server initialized
+1:M 10 May 2023 09:26:35.959 * Ready to accept connections
+1:signal-handler (1683711011) Received SIGTERM scheduling shutdown...
+1:M 10 May 2023 09:30:11.389 # User requested shutdown...
+1:M 10 May 2023 09:30:11.391 * Calling fsync() on the AOF file.
+1:M 10 May 2023 09:30:11.391 * Saving the final RDB snapshot before exiting.
+1:M 10 May 2023 09:30:11.396 * DB saved on disk
+1:M 10 May 2023 09:30:11.397 * Removing the pid file.
+1:M 10 May 2023 09:30:11.398 # Redis is now ready to exit, bye bye...
+1:C 10 May 2023 09:34:59.910 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1:C 10 May 2023 09:34:59.912 # Redis version=6.2.12, bits=64, commit=00000000, modified=0, pid=1, just started
+1:C 10 May 2023 09:34:59.914 # Configuration loaded
+1:M 10 May 2023 09:34:59.916 * monotonic clock: POSIX clock_gettime
+1:M 10 May 2023 09:34:59.922 * Running mode=standalone, port=6379.
+1:M 10 May 2023 09:34:59.923 # Server initialized
+1:M 10 May 2023 09:34:59.928 * DB loaded from append only file: 0.002 seconds
+1:M 10 May 2023 09:34:59.928 * Ready to accept connections
+1:signal-handler (1683711355) Received SIGTERM scheduling shutdown...
+1:M 10 May 2023 09:35:55.602 # User requested shutdown...
+1:M 10 May 2023 09:35:55.604 * Calling fsync() on the AOF file.
+1:M 10 May 2023 09:35:55.604 * Saving the final RDB snapshot before exiting.
+1:M 10 May 2023 09:35:55.609 * DB saved on disk
+1:M 10 May 2023 09:35:55.610 * Removing the pid file.
+1:M 10 May 2023 09:35:55.610 # Redis is now ready to exit, bye bye...
+1:C 10 May 2023 09:36:28.756 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1:C 10 May 2023 09:36:28.757 # Redis version=6.2.12, bits=64, commit=00000000, modified=0, pid=1, just started
+1:C 10 May 2023 09:36:28.757 # Configuration loaded
+1:M 10 May 2023 09:36:28.758 * monotonic clock: POSIX clock_gettime
+1:M 10 May 2023 09:36:28.761 * Running mode=standalone, port=6379.
+1:M 10 May 2023 09:36:28.761 # Server initialized
+1:M 10 May 2023 09:36:28.764 * DB loaded from append only file: 0.001 seconds
+1:M 10 May 2023 09:36:28.765 * Ready to accept connections
+1:signal-handler (1683711768) Received SIGTERM scheduling shutdown...
+1:M 10 May 2023 09:42:48.400 # User requested shutdown...
+1:M 10 May 2023 09:42:48.401 * Calling fsync() on the AOF file.
+1:M 10 May 2023 09:42:48.402 * Saving the final RDB snapshot before exiting.
+1:M 10 May 2023 09:42:48.408 * DB saved on disk
+1:M 10 May 2023 09:42:48.408 * Removing the pid file.
+1:M 10 May 2023 09:42:48.409 # Redis is now ready to exit, bye bye...
+1:C 10 May 2023 09:43:47.245 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1:C 10 May 2023 09:43:47.246 # Redis version=6.2.12, bits=64, commit=00000000, modified=0, pid=1, just started
+1:C 10 May 2023 09:43:47.247 # Configuration loaded
+1:M 10 May 2023 09:43:47.248 * monotonic clock: POSIX clock_gettime
+1:M 10 May 2023 09:43:47.251 * Running mode=standalone, port=6379.
+1:M 10 May 2023 09:43:47.251 # Server initialized
+1:M 10 May 2023 09:43:47.256 * DB loaded from append only file: 0.002 seconds
+1:M 10 May 2023 09:43:47.257 * Ready to accept connections
+1:signal-handler (1683711958) Received SIGTERM scheduling shutdown...
+1:M 10 May 2023 09:45:58.173 # User requested shutdown...
+1:M 10 May 2023 09:45:58.173 * Calling fsync() on the AOF file.
+1:M 10 May 2023 09:45:58.174 * Saving the final RDB snapshot before exiting.
+1:M 10 May 2023 09:45:58.179 * DB saved on disk
+1:M 10 May 2023 09:45:58.179 * Removing the pid file.
+1:M 10 May 2023 09:45:58.180 # Redis is now ready to exit, bye bye...
+1:C 10 May 2023 09:46:07.908 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1:C 10 May 2023 09:46:07.909 # Redis version=6.2.12, bits=64, commit=00000000, modified=0, pid=1, just started
+1:C 10 May 2023 09:46:07.910 # Configuration loaded
+1:M 10 May 2023 09:46:07.912 * monotonic clock: POSIX clock_gettime
+1:M 10 May 2023 09:46:07.915 * Running mode=standalone, port=6379.
+1:M 10 May 2023 09:46:07.916 # Server initialized
+1:M 10 May 2023 09:46:07.919 * DB loaded from append only file: 0.001 seconds
+1:M 10 May 2023 09:46:07.920 * Ready to accept connections
+1:signal-handler (1683712068) Received SIGTERM scheduling shutdown...
+1:M 10 May 2023 09:47:48.110 # User requested shutdown...
+1:M 10 May 2023 09:47:48.111 * Calling fsync() on the AOF file.
+1:M 10 May 2023 09:47:48.112 * Saving the final RDB snapshot before exiting.
+1:M 10 May 2023 09:47:48.116 * DB saved on disk
+1:M 10 May 2023 09:47:48.117 * Removing the pid file.
+1:M 10 May 2023 09:47:48.118 # Redis is now ready to exit, bye bye...
+1:C 10 May 2023 09:48:49.995 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1:C 10 May 2023 09:48:49.997 # Redis version=6.2.12, bits=64, commit=00000000, modified=0, pid=1, just started
+1:C 10 May 2023 09:48:49.998 # Configuration loaded
+1:M 10 May 2023 09:48:50.001 * monotonic clock: POSIX clock_gettime
+1:M 10 May 2023 09:48:50.013 * Running mode=standalone, port=6379.
+1:M 10 May 2023 09:48:50.014 # Server initialized
+1:M 10 May 2023 09:48:50.020 * DB loaded from append only file: 0.002 seconds
+1:M 10 May 2023 09:48:50.021 * Ready to accept connections
+1:signal-handler (1683712186) Received SIGTERM scheduling shutdown...
+1:M 10 May 2023 09:49:46.192 # User requested shutdown...
+1:M 10 May 2023 09:49:46.193 * Calling fsync() on the AOF file.
+1:M 10 May 2023 09:49:46.194 * Saving the final RDB snapshot before exiting.
+1:M 10 May 2023 09:49:46.198 * DB saved on disk
+1:M 10 May 2023 09:49:46.199 * Removing the pid file.
+1:M 10 May 2023 09:49:46.200 # Redis is now ready to exit, bye bye...
+1:C 10 May 2023 09:49:54.987 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1:C 10 May 2023 09:49:54.988 # Redis version=6.2.12, bits=64, commit=00000000, modified=0, pid=1, just started
+1:C 10 May 2023 09:49:54.989 # Configuration loaded
+1:M 10 May 2023 09:49:54.990 * monotonic clock: POSIX clock_gettime
+1:M 10 May 2023 09:49:54.992 * Running mode=standalone, port=6379.
+1:M 10 May 2023 09:49:54.993 # Server initialized
+1:M 10 May 2023 09:49:54.995 * DB loaded from append only file: 0.001 seconds
+1:M 10 May 2023 09:49:54.996 * Ready to accept connections
+1:signal-handler (1683712322) Received SIGTERM scheduling shutdown...
+1:M 10 May 2023 09:52:02.479 # User requested shutdown...
+1:M 10 May 2023 09:52:02.480 * Calling fsync() on the AOF file.
+1:M 10 May 2023 09:52:02.481 * Saving the final RDB snapshot before exiting.
+1:M 10 May 2023 09:52:02.487 * DB saved on disk
+1:M 10 May 2023 09:52:02.488 * Removing the pid file.
+1:M 10 May 2023 09:52:02.488 # Redis is now ready to exit, bye bye...
+1:C 10 May 2023 09:54:31.338 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1:C 10 May 2023 09:54:31.339 # Redis version=6.2.12, bits=64, commit=00000000, modified=0, pid=1, just started
+1:C 10 May 2023 09:54:31.340 # Configuration loaded
+1:M 10 May 2023 09:54:31.341 * monotonic clock: POSIX clock_gettime
+1:M 10 May 2023 09:54:31.343 * Running mode=standalone, port=6379.
+1:M 10 May 2023 09:54:31.344 # Server initialized
+1:M 10 May 2023 09:54:31.347 * DB loaded from append only file: 0.001 seconds
+1:M 10 May 2023 09:54:31.348 * Ready to accept connections
